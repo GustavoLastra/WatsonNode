@@ -6,7 +6,7 @@
 {<content}
 	<div class='container'>
 		<div class='page-header'>
-			<h1 style="color:MediumSeaGreen ;">Node.js & AlchemyAPI</h1>
+			<h1 style="color:BlueViolet ;">Node.js & AlchemyAPI</h1>
 		</div>
 
 		<h1 style="color:CornflowerBlue ;">Processed Text</h1>
@@ -22,7 +22,7 @@
 				<a data-toggle="collapse" data-parent="#accordion" href="#collapse1"><h3 style="color:RoyalBlue ;">Entities</h3></a>
 			</h4>
 		</div>
-		<div id="collapse1" class="panel-collapse collapse in">
+		<div id="collapse1" class="panel-collapse collapse">
 			<div class="panel-body">{#entities.results}
 			<table style="border-collapse: collapse;">
 
